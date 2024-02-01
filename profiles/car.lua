@@ -190,7 +190,7 @@ function setup()
     },
 
     route_speeds = {
-      ferry = 5,
+      ferry = 0,
       shuttle_train = 10
     },
 
